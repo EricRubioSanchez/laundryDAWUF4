@@ -1,7 +1,7 @@
 # laundry management system
 
 ---
-## Using Tech:
+## Using Techo:
 
 * Php
 * JavaScript
