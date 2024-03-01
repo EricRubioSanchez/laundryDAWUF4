@@ -1,7 +1,7 @@
 # laundry management system
 
 ---
-## Using Techo:
+## Ussing Techo:
 
 * Php
 * JavaScript
