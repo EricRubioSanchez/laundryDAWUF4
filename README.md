@@ -1,5 +1,5 @@
 # laundry management system
-Raúl de Mingo -> Colaborador
+Eric -> Propietario
 ---
 ## Ussing Techo:
 
