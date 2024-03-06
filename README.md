@@ -1,5 +1,5 @@
 # laundry management system
-
+Eric Rubio -> Propietario
 ---
 ## Ussing Techo:
 
