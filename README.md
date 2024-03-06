@@ -1,5 +1,5 @@
 # laundry management system
-Eric -> Propietario
+Raul -> Colaborador
 ---
 ## Ussing Techo:
 
