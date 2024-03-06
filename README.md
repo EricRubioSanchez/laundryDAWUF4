@@ -1,5 +1,5 @@
 # laundry management system
-Raul -> Colaborador
+
 ---
 ## Ussing Techo:
 
